@@ -11,6 +11,8 @@ Disorder type model has the metrics:
 Event type model has the metrics:
 ![image](https://github.com/user-attachments/assets/540ced82-5c2e-42f9-b715-68523de0c204)
 
+The individual models can be found in the backend folder
+
 ## How to use project
 1. Enter the backend folder and run the app.py server
 2. Enter the frontend folder, go to the firebase-app, and run the authentication firebase api. A key.json file is required
