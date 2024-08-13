@@ -12,3 +12,10 @@ Event type model has the metrics:
 ![image](https://github.com/user-attachments/assets/540ced82-5c2e-42f9-b715-68523de0c204)
 
 ## How to use project
+1. Enter the backend folder and run the app.py server
+2. Enter the frontend folder, go to the firebase-app, and run the authentication firebase api. A key.json file is required
+3. In the frontend conflict-monitoring folder npm start the frontend application
+
+Note that the data is not included in the github repository due to rules surrounding using data from X (formerly Twitter)
+
+To request the data, reach out to the author on email angaawaa14@gmail.com
