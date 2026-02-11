@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "firebase-app"
+version = "0.1.0"
+description = "User Authentication Firebase"
+authors = ["yykkd <yasmin.gbontaa@ashesi.edu.gh>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+firebase-admin = "^6.5.0"
+Flask = "^3.0.3"
+jsonify = "^0.5"
+flask-cors = "^4.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
